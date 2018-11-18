@@ -10,7 +10,7 @@ times, either in virtual machines or in physical machines.
 With this script you will be in the position of:
 
 - update and upgrade your system
-- Install all these previously selected programs
+- Install previously selected programs
 - Back up some configuration files (interfaces, sshd_config, etc)
 - Change host name
 - Change your dynamic IP to a static one.
