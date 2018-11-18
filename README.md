@@ -21,4 +21,5 @@ the ssh service among others. I will be very grateful
 if anyone has any suggestions about what to add or improve. 
 
 ===> Note that in this script I only use free software (firmware-linux-free). <===
+
 ===> Before running the script, please make all relevant changes to the configuration files. <===
