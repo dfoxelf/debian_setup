@@ -58,7 +58,7 @@ programs_desk = ['htop', 'curl', 'wget', 'perl', 'tree', 'unace', 'p7zip-full', 
 programs_srv = ['lm-sensors', 'hddtemp', 'htop', 'curl', 'wget', 'perl', 'tree', 'unace', 'p7zip-full', 'p7zip-rar',
                 'lzip', 'arj', 'sharutils', 'mpack', 'lzma', 'lzop', 'unzip', 'zip', 'bzip2', 'lhasa', 'cabextract',
                 'lrzip', 'rzip', 'zpaq', 'kgb', 'xz-utils', 'dnsutils', 'net-tools', 'chkrootkit', 'ufw', 'dpkg',
-                'wget', 'python-pip', 'python-virtualenv', 'openssh-server', 'openssh-client']
+                'wget', 'python-pip', 'python-virtualenv', 'openssh-server', 'openssh-client', 'nmap']
 
 
 def main_menu():
